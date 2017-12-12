@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Proyecto Beta Sandbox/Scenes/Beta.unity
+  isLoaded: 1
+  isActive: 1
